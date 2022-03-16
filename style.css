@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+h3{
+    background-color: yellow ;
+    font-family: robot;
+} 
+p{
+    font-family: robot;
+    color: turquoise;
+}
+b{
+    color:cyan ;
+    font-family: cursive;
+}
+label{
+    font-family:monospace;
+    font-size: 18px;
+    background-color: yellow;
+    padding: 10px;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed white;
+    margin-top: 10px;
+}
+#result_object_name, #result_object_accuracy{
+color: yellow;
+
+}
